@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
 
-- ⚡ **Languages**
+⚡ **Languages**
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepover10&hide_progress=true)
 
