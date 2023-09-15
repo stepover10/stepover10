@@ -1,7 +1,6 @@
 
 
 #### 👋 Front Developer Welcome my github profile !
-*****
 
 
 <!--
