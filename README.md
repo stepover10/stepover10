@@ -1,4 +1,4 @@
-### FRONT_DEVELOPER 👋
+### 👋 FRONT_DEVELOPER 
 
 <!--
 **stepover10/stepover10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepover10&hide_progress=true)
+
+<br/>
+<br/>
+🌱 Skils
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
