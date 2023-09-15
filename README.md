@@ -51,9 +51,3 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
-
-
-⚡ **Languages**
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepover10&hide_progress=true)
-
