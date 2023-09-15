@@ -2,11 +2,6 @@
 
 ### 👋 FRONT DEVELOPER
 
-안녕하세요. <br/>
-프론트엔드 개발의 핵심적인 부분인 코딩 컨벤션, 표준화, 리소스 최적화, <br/>
-그리고 협업과 품질 관리를 중요하게 생각합니다. <br/>
-
-
 
 <!--
 **stepover10/stepover10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
