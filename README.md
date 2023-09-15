@@ -1,4 +1,4 @@
-<center>
+<p align="center">
 
 ### 👋 FRONT DEVELOPER
 
@@ -39,6 +39,4 @@ Here are some ideas to get you started:
 ![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
 
-
-
-
+</p>
