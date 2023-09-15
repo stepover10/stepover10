@@ -2,6 +2,10 @@
 
 ### 👋 FRONT DEVELOPER
 
+안녕하세요 프론트엔드 개발자 입니다.
+
+
+
 <!--
 **stepover10/stepover10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 **Frontend**
+### 🔭 Frontend
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
@@ -36,7 +40,7 @@ Here are some ideas to get you started:
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 
-👯 **ETC**
+### 👯 ETC
 
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -44,7 +48,7 @@ Here are some ideas to get you started:
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 <br/>
 
-🌱 **Tools**
+### 🌱 Tools
 
 ![google](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
